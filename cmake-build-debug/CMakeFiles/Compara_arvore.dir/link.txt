@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Compara_arvore.dir/main.cpp.o -o Compara_arvore  -L/media/fausto/c07542e0-bd6e-4ea0-a050-f97dbce2d07f/fausto/Documentos/CLionProjects/PROG2/arvores/Compara_arvore/libs -lprglib 
